@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "programs": "Programs",
+    "contact": "Contact",
+    "admissions": "Admissions"
+  },
+  "hero": {
+    "title": "Build a Bright Future",
+    "subtitle": "Premium Homeschool & International Education for Ages 7-18",
+    "description": "Experience world-class Cambridge IGCSE curriculum in a warm, supportive environment. We focus on holistic development and your child's happiness.",
+    "cta": "Schedule a Tour",
+    "cta_secondary": "Learn More"
+  },
+  "about": {
+    "title": "About Sunrise Education",
+    "subtitle": "A school that truly cares about your child's growth and happiness",
+    "highlights.0": "🌟 Cambridge IGCSE International Curriculum",
+    "highlights.1": "👨‍👩‍👧‍👦 Personalized Learning Approach",
+    "highlights.2": "🌍 Global Perspective with Local Touch",
+    "highlights.3": "💡 Innovation & Critical Thinking",
+    "highlights.4": "❤️ Caring & Supportive Community"
+  },
+  "programs": {
+    "title": "Our Programs",
+    "subtitle": "Comprehensive education designed for your child's success",
+    "primary": {
+      "title": "Primary School",
+      "age": "Ages 7-12",
+      "description": "Foundation years emphasizing critical thinking, creativity, and character development."
+    },
+    "secondary": {
+      "title": "Secondary School",
+      "age": "Ages 13-18",
+      "description": "Cambridge IGCSE preparation with specialized subjects and career guidance."
+    },
+    "homeschool": {
+      "title": "Homeschool Support",
+      "age": "Ages 7-18",
+      "description": "Flexible homeschooling program with curriculum guidance and regular assessments."
+    }
+  },
+  "features": {
+    "title": "Why Choose Sunrise?",
+    "subtitle": "Excellence in education with personal care",
+    "items": [
+      {
+        "title": "Cambridge IGCSE Curriculum",
+        "description": "Internationally recognized qualification preparing students for top universities worldwide."
+      },
+      {
+        "title": "Small Class Sizes",
+        "description": "Personalized attention ensures every student reaches their full potential."
+      },
+      {
+        "title": "Holistic Development",
+        "description": "Beyond academics - we nurture character, confidence, and creativity."
+      },
+      {
+        "title": "Experienced Educators",
+        "description": "Qualified teachers with international teaching experience and passion for education."
+      },
+      {
+        "title": "Modern Facilities",
+        "description": "Advanced learning spaces equipped with cutting-edge educational technology."
+      },
+      {
+        "title": "Flexible Learning",
+        "description": "Hybrid model available - choose what works best for your family."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you. Let's start a conversation about your child's education.",
+    "phone": "Call Now",
+    "whatsapp": "WhatsApp",
+    "email": "Email Us",
+    "address": "Our Location",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you! We'll get back to you shortly.",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Sunrise Education. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "sitemap": "Sitemap"
+    },
+    "social": {
+      "instagram": "Follow on Instagram",
+      "facebook": "Like on Facebook",
+      "ai_assistant": "Ask AI Assistant"
+    }
+  },
+  "cta": {
+    "admissions": "Start Your Journey Today",
+    "tour": "Schedule a School Tour",
+    "inquiry": "Send an Inquiry"
+  }
+}
