@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于我们",
+    "programs": "课程",
+    "contact": "联系我们",
+    "admissions": "招生"
+  },
+  "hero": {
+    "title": "构建光明未来",
+    "subtitle": "面向7-18岁儿童的优质居家教育与国际学校",
+    "description": "体验世界级剑桥IGCSE课程，在充满关爱和支持的环境中学习。我们专注于全面发展和孩子的快乐成长。",
+    "cta": "预约参观",
+    "cta_secondary": "了解更多"
+  },
+  "about": {
+    "title": "关于 Sunrise Education",
+    "subtitle": "一所真正关心孩子成长与快乐的学校",
+    "highlights.0": "🌟 剑桥IGCSE国际课程",
+    "highlights.1": "👨‍👩‍👧‍👦 个性化学习方法",
+    "highlights.2": "🌍 全球视角与本地特色相结合",
+    "highlights.3": "💡 创新与批判性思维",
+    "highlights.4": "❤️ 充满关爱的社区"
+  },
+  "programs": {
+    "title": "我们的课程",
+    "subtitle": "为孩子成功而设计的综合教育",
+    "primary": {
+      "title": "小学课程",
+      "age": "7-12岁",
+      "description": "基础阶段，强调批判性思维、创意和品格发展。"
+    },
+    "secondary": {
+      "title": "中学课程",
+      "age": "13-18岁",
+      "description": "剑桥IGCSE课程准备，提供专业科目和职业指导。"
+    },
+    "homeschool": {
+      "title": "居家教育支持",
+      "age": "7-18岁",
+      "description": "灵活的居家教育项目，包括课程指导和定期评估。"
+    }
+  },
+  "features": {
+    "title": "为什么选择 Sunrise?",
+    "subtitle": "卓越教育与个人关怀相结合",
+    "items": [
+      {
+        "title": "剑桥IGCSE课程",
+        "description": "国际认可的资格认证，为学生升入世界顶尖大学做准备。"
+      },
+      {
+        "title": "小班教学",
+        "description": "个性化关注确保每个学生充分发挥潜能。"
+      },
+      {
+        "title": "全面发展",
+        "description": "超越学术 - 我们培养品格、自信和创意。"
+      },
+      {
+        "title": "经验丰富的教师",
+        "description": "具备国际教学经验和教育热情的合格教师。"
+      },
+      {
+        "title": "现代设施",
+        "description": "配备最新教育技术的先进学习空间。"
+      },
+      {
+        "title": "灵活学习",
+        "description": "提供混合模式 - 选择最适合您家庭的方式。"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们很想听到您的声音。让我们开始讨论您孩子的教育。",
+    "phone": "立即致电",
+    "whatsapp": "WhatsApp",
+    "email": "邮箱",
+    "address": "我们的位置",
+    "form": {
+      "name": "姓名",
+      "email": "电子邮箱",
+      "phone": "电话号码",
+      "message": "信息",
+      "submit": "发送信息",
+      "success": "谢谢！我们会尽快与您联系。",
+      "error": "出错了。请重试。"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Sunrise Education. 保留所有权利。",
+    "links": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "sitemap": "网站地图"
+    },
+    "social": {
+      "instagram": "在Instagram上关注",
+      "facebook": "在Facebook上点赞",
+      "ai_assistant": "询问AI助手"
+    }
+  },
+  "cta": {
+    "admissions": "立即开始您的旅程",
+    "tour": "预约学校参观",
+    "inquiry": "发送询问"
+  }
+}
